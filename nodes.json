@@ -1,0 +1,489 @@
+[
+  {
+    "id": "loc_63-5th-ave",
+    "label": "63 5th Ave",
+    "x": 9.115,
+    "y": 8.2,
+    "w": 150,
+    "h": 120,
+    "src": "assets/63-5th-ave.jpg",
+    "links": [
+      "loc_1000-5th-ave",
+      "loc_6-e-16th-st",
+      "loc_68-5th-ave",
+      "loc_jemmys-dog-run",
+      "loc_washington-square-park"
+    ]
+  },
+  {
+    "id": "loc_6-e-16th-st",
+    "label": "6 E 16th St",
+    "x": 23.0,
+    "y": 9.786,
+    "w": 150,
+    "h": 120,
+    "src": "assets/6-e-16th-st.jpg",
+    "links": [
+      "loc_21-e-16th-st",
+      "loc_63-5th-ave",
+      "loc_68-5th-ave",
+      "loc_jemmys-dog-run"
+    ]
+  },
+  {
+    "id": "loc_68-5th-ave",
+    "label": "68 5th Ave",
+    "x": 43.492,
+    "y": 13.414,
+    "w": 150,
+    "h": 120,
+    "src": "assets/66-5th-ave.jpg",
+    "links": [
+      "loc_1000-5th-ave",
+      "loc_39-union-square-w",
+      "loc_6-e-16th-st",
+      "loc_63-5th-ave",
+      "loc_66-w-38th-st"
+    ]
+  },
+  {
+    "id": "loc_39-union-square-w",
+    "label": "39 Union Square W",
+    "x": 61.537,
+    "y": 8.696,
+    "w": 150,
+    "h": 120,
+    "src": "assets/39-union-square-w.jpg",
+    "links": [
+      "loc_35-union-square-w",
+      "loc_353-west-st",
+      "loc_68-5th-ave"
+    ]
+  },
+  {
+    "id": "loc_35-union-square-w",
+    "label": "35 Union Square W",
+    "x": 74.575,
+    "y": 8.238,
+    "w": 150,
+    "h": 120,
+    "src": "assets/35-union-square-w.jpg",
+    "links": [
+      "loc_21-e-16th-st",
+      "loc_353-west-st",
+      "loc_39-union-square-w"
+    ]
+  },
+  {
+    "id": "loc_21-e-16th-st",
+    "label": "21 E 16th St",
+    "x": 89.749,
+    "y": 12.043,
+    "w": 150,
+    "h": 120,
+    "src": "assets/21-e-16th-st.jpg",
+    "links": [
+      "loc_294-10th-ave",
+      "loc_35-union-square-w",
+      "loc_485-marin-blvd",
+      "loc_6-e-16th-st"
+    ]
+  },
+  {
+    "id": "loc_washington-square-park",
+    "label": "Washington Square Park",
+    "x": 4.212,
+    "y": 33.591,
+    "w": 150,
+    "h": 120,
+    "src": "assets/washington-square-park.jpg",
+    "links": [
+      "loc_200-central-park-w",
+      "loc_63-5th-ave",
+      "loc_jemmys-dog-run",
+      "loc_newport-center-mall"
+    ]
+  },
+  {
+    "id": "loc_jemmys-dog-run",
+    "label": "Jemmy’s Dog Run",
+    "x": 25.999,
+    "y": 36.36,
+    "w": 150,
+    "h": 120,
+    "src": "assets/jemmys-dog-run.jpg",
+    "links": [
+      "loc_200-central-park-w",
+      "loc_474-warren-st",
+      "loc_6-e-16th-st",
+      "loc_63-5th-ave",
+      "loc_66-w-38th-st",
+      "loc_washington-square-park"
+    ]
+  },
+  {
+    "id": "loc_66-w-38th-st",
+    "label": "66 W 38th St",
+    "x": 39.364,
+    "y": 36.714,
+    "w": 150,
+    "h": 120,
+    "src": "assets/66-w-38th-st.jpg",
+    "links": [
+      "loc_353-west-st",
+      "loc_42nd-st-6th-ave",
+      "loc_68-5th-ave",
+      "loc_jemmys-dog-run",
+      "loc_st-patricks-cathedral"
+    ]
+  },
+  {
+    "id": "loc_353-west-st",
+    "label": "353 West St",
+    "x": 60.875,
+    "y": 32.052,
+    "w": 150,
+    "h": 120,
+    "src": "assets/353-west-st.jpg",
+    "links": [
+      "loc_294-10th-ave",
+      "loc_35-union-square-w",
+      "loc_39-union-square-w",
+      "loc_66-w-38th-st"
+    ]
+  },
+  {
+    "id": "loc_294-10th-ave",
+    "label": "294 10th Ave",
+    "x": 77.647,
+    "y": 37.585,
+    "w": 150,
+    "h": 120,
+    "src": "assets/294-10th-ave.jpg",
+    "links": [
+      "loc_21-e-16th-st",
+      "loc_353-west-st",
+      "loc_39-w-13th-st",
+      "loc_485-marin-blvd",
+      "loc_55-w-13th-st"
+    ]
+  },
+  {
+    "id": "loc_485-marin-blvd",
+    "label": "485 Marin Blvd",
+    "x": 90.722,
+    "y": 33.244,
+    "w": 150,
+    "h": 120,
+    "src": "assets/485-marin-blvd.jpg",
+    "links": [
+      "loc_21-e-16th-st",
+      "loc_294-10th-ave",
+      "loc_39-w-13th-st",
+      "loc_474-warren-st",
+      "loc_newport-center-mall"
+    ]
+  },
+  {
+    "id": "loc_newport-center-mall",
+    "label": "Newport Center Mall",
+    "x": 11.658,
+    "y": 58.693,
+    "w": 150,
+    "h": 120,
+    "src": "assets/newport-center-mall.jpg",
+    "links": [
+      "loc_474-warren-st",
+      "loc_485-marin-blvd",
+      "loc_498-6th-ave",
+      "loc_washington-square-park"
+    ]
+  },
+  {
+    "id": "loc_474-warren-st",
+    "label": "474 Warren St",
+    "x": 21.542,
+    "y": 56.774,
+    "w": 150,
+    "h": 120,
+    "src": "assets/loading.PNG",
+    "links": [
+      "loc_142-e-14th-st",
+      "loc_485-marin-blvd",
+      "loc_498-6th-ave",
+      "loc_jemmys-dog-run",
+      "loc_newport-center-mall",
+      "loc_st-patricks-cathedral"
+    ]
+  },
+  {
+    "id": "loc_st-patricks-cathedral",
+    "label": "St. Patrick’s Cathedral",
+    "x": 44.38,
+    "y": 60.83,
+    "w": 150,
+    "h": 120,
+    "src": "assets/st-patricks-cathedral.jpg",
+    "links": [
+      "loc_1000-5th-ave",
+      "loc_42nd-st-6th-ave",
+      "loc_474-warren-st",
+      "loc_66-w-38th-st",
+      "loc_728-knickerbocker-ave"
+    ]
+  },
+  {
+    "id": "loc_728-knickerbocker-ave",
+    "label": "728 Knickerbocker Ave",
+    "x": 60.857,
+    "y": 61.838,
+    "w": 150,
+    "h": 120,
+    "src": "assets/728-knickerbocker-ave.jpg",
+    "links": [
+      "loc_200-central-park-w",
+      "loc_42nd-st-6th-ave",
+      "loc_55-w-13th-st",
+      "loc_st-patricks-cathedral"
+    ]
+  },
+  {
+    "id": "loc_55-w-13th-st",
+    "label": "55 W 13th St",
+    "x": 75.49,
+    "y": 63.785,
+    "w": 150,
+    "h": 120,
+    "src": "assets/loading.PNG",
+    "links": [
+      "loc_294-10th-ave",
+      "loc_39-w-13th-st",
+      "loc_42nd-st-6th-ave",
+      "loc_728-knickerbocker-ave"
+    ]
+  },
+  {
+    "id": "loc_39-w-13th-st",
+    "label": "39 W 13th St",
+    "x": 91.028,
+    "y": 60.416,
+    "w": 150,
+    "h": 120,
+    "src": "assets/39-w-13th-st.jpg",
+    "links": [
+      "loc_294-10th-ave",
+      "loc_485-marin-blvd",
+      "loc_55-w-13th-st"
+    ]
+  },
+  {
+    "id": "loc_498-6th-ave",
+    "label": "498 6th Ave",
+    "x": 10.635,
+    "y": 84.948,
+    "w": 150,
+    "h": 120,
+    "src": "assets/loading.PNG",
+    "links": [
+      "loc_142-e-14th-st",
+      "loc_474-warren-st",
+      "loc_newport-center-mall"
+    ]
+  },
+  {
+    "id": "loc_142-e-14th-st",
+    "label": "142 E 14th St",
+    "x": 27.694,
+    "y": 84.619,
+    "w": 150,
+    "h": 120,
+    "src":"assets/loading.PNG",
+    "links": [
+      "loc_1000-5th-ave",
+      "loc_474-warren-st",
+      "loc_498-6th-ave"
+    ]
+  },
+  {
+    "id": "loc_1000-5th-ave",
+    "label": "1000 5th Ave",
+    "x": 43.237,
+    "y": 80.367,
+    "w": 150,
+    "h": 120,
+    "src": "assets/1000-5th-ave.jpg",
+    "links": [
+      "loc_142-e-14th-st",
+      "loc_200-central-park-w",
+      "loc_63-5th-ave",
+      "loc_68-5th-ave",
+      "loc_st-patricks-cathedral"
+    ]
+  },
+  {
+    "id": "loc_200-central-park-w",
+    "label": "200 Central Park W",
+    "x": 56.223,
+    "y": 82.315,
+    "w": 150,
+    "h": 120,
+    "src": "assets/200-central-park-w.jpg",
+    "links": [
+      "loc_1000-5th-ave",
+      "loc_42nd-st-6th-ave",
+      "loc_728-knickerbocker-ave",
+      "loc_jemmys-dog-run",
+      "loc_washington-square-park"
+    ]
+  },
+  {
+    "id": "loc_42nd-st-6th-ave",
+    "label": "42nd St 6th Ave",
+    "x": 71.838,
+    "y": 81.862,
+    "w": 150,
+    "h": 120,
+    "src": "assets/loading.PNG",
+    "links": [
+      "loc_200-central-park-w",
+      "loc_55-w-13th-st",
+      "loc_66-w-38th-st",
+      "loc_728-knickerbocker-ave",
+      "loc_st-patricks-cathedral"
+    ]
+  },
+  {
+    "id": "bg_1",
+    "label": "Background 1",
+    "x": 13.292,
+    "y": 30.462,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-1.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_2",
+    "label": "Background 2",
+    "x": 62.483,
+    "y": 38.105,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-2.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_3",
+    "label": "Background 3",
+    "x": 38.057,
+    "y": 24.437,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-3.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_4",
+    "label": "Background 4",
+    "x": 28.562,
+    "y": 88.426,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-4.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_5",
+    "label": "Background 5",
+    "x": 63.619,
+    "y": 59.604,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-5.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_6",
+    "label": "Background 6",
+    "x": 19.745,
+    "y": 70.163,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-6.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_7",
+    "label": "Background 7",
+    "x": 19.033,
+    "y": 39.392,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-7.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_8",
+    "label": "Background 8",
+    "x": 95.036,
+    "y": 62.32,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-8.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_9",
+    "label": "Background 9",
+    "x": 55.239,
+    "y": 66.246,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-1.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_10",
+    "label": "Background 10",
+    "x": 81.542,
+    "y": 74.288,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-2.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_11",
+    "label": "Background 11",
+    "x": 25.072,
+    "y": 8.825,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-3.jpg",
+    "links": [],
+    "type": "background"
+  },
+  {
+    "id": "bg_12",
+    "label": "Background 12",
+    "x": 33.022,
+    "y": 29.561,
+    "w": 120,
+    "h": 90,
+    "src": "assets/bg-4.jpg",
+    "links": [],
+    "type": "background"
+  }
+  
+
+]
